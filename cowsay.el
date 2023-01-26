@@ -5,9 +5,9 @@
 ;;; Use this to separate sections in TeX files, Program source, etc.
 ;;;
 ;;; customize the cowsay-font-dir variable below to point to your
-;;; figlet font directory.
+;;; cows font directory.
 ;;;
-;;; M-x cowsay      to get a figlet comment in standard font.
+;;; M-x cowsay      to get a cowsay comment in standard font.
 ;;; C-u M-x cowsay  to be asked for the font first.
 ;;;
 ;;; These functions use comment-region to wrap the cowsay output 
